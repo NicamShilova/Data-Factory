@@ -1,0 +1,9 @@
+{
+	"name": "df-ncampion-dvf-weu-01",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a51dbeca-f335-46be-9220-ae703b222d4c",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
